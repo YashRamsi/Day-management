@@ -8,7 +8,7 @@
   },
   "build": {
     "appId": "com.mydaymanagement.app",
-    "productName": "My Day Management app",
+    "productName": "Day Schedule",
     "files": [
       "index.html",
       "styles.css",
@@ -20,7 +20,7 @@
     ]
   },
   "keywords": [],
-  "author": "Rayanul Kader Chowdhury Abid",
+  "author": "Yaswanth Pavuluri",
   "license": "MIT",
   "description": "My Life Management is a minimalist productivity tool designed to help you organize and streamline your daily tasks and long-term goals.",
   "devDependencies": {
