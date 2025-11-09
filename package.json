@@ -24,8 +24,13 @@
   "license": "MIT",
   "description": "My Life Management is a minimalist productivity tool designed to help you organize and streamline your daily tasks and long-term goals.",
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
     "electron": "^31.3.1",
     "electron-builder": "^24.13.3",
-    "electron-packager": "^17.1.2"
+    "electron-packager": "^17.1.2",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "prettier": "^3.6.2"
   }
 }
