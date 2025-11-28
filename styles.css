@@ -62,6 +62,13 @@ input {
   padding: 3px;
 }
 
+/* Center all headings */
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
 /* Calendar */
 .today {
   font-weight: bolder;

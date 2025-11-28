@@ -90,7 +90,7 @@ Add Build Scripts to `package.json`:
 },
 "build": {
     "appId": "com.mydaymanagement.app",
-    "productName": "My Day Management",
+    "productName": "Day Schedule",
     "files": [
         "index.html",
         "styles.css",
